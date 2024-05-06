@@ -32,14 +32,15 @@ libtool
 *Makefile
 py-compile
 stamp-h1
-src/.libs
-src/usbfluxd
+usbfluxd/.libs
+usbfluxd/usbfluxd
 tools/usbfluxctl
 tools/.libs
 USBFlux/build
 USBFlux/USBFlux.xcodeproj/project.xcworkspace/xcshareddata/
 USBFlux/USBFlux.xcodeproj/project.xcworkspace/xcuserdata/
 USBFlux/USBFlux.xcodeproj/xcuserdata/
+build/
 *.zip
 *.dmg
 create-dmg
